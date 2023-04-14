@@ -1,0 +1,39 @@
+h1{
+  color: maroon;
+  background-color: cornsilk;
+  text-align: center;
+  font-size: 30px;
+  border: 4px solid mistyrose;
+  width: 950px;
+  padding: 10px;
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+.highlight_a{
+  color: darkgreen;
+  font-size: 22px;
+  margin-left: 40px;
+  background-color: bisque;
+  width: 213px;
+}
+
+.highlight_b{
+  color: darkgreen;
+  font-size: 22px;
+  margin-left: 40px;
+  background-color: bisque;
+  width: 127px;
+}
+
+.highlight_c{
+  color: darkgreen;
+  font-size: 22px;
+  margin-left: 40px;
+  background-color: bisque;
+  width: 114px;
+}
+
+li, p{
+  font-size: 18px;
+}
